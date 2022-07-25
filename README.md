@@ -1,0 +1,2 @@
+# django-demo
+# nakarin-django
